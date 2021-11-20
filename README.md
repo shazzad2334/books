@@ -1,2 +1,2 @@
 # books
-various book collection (math, algorithm, ml etc)
+**Various book collection (Math, Algorithm, Machine Learning etc)**
